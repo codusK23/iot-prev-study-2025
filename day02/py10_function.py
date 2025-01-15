@@ -1,6 +1,6 @@
 # 수학의 함수와 동일
 
-print('함수!!') # 내장(built-in)함수
+print('함수 모듈!!') # 내장(built-in)함수
 
 # 함수 정의(definition)
 # 사용자 정의함수
